@@ -48,7 +48,7 @@ Here we see a change to the Average match score, the average reading score, perc
 
 The school summary shows that the data for Thomas high school chnaged in the following areas;
 
-* Average match score declined by 0.07 or 0.08% from 83.42 to 83.35. 
+* Average math score declined by 0.07 or 0.08% from 83.42 to 83.35. 
 
 * Average reading score increased by 0.05 or 0.06% from 83.85 to 83.90.
 
