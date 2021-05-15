@@ -128,10 +128,15 @@ This significantly affected the overall 9th grade performance when viewed from t
 
 ### Scores by school spending
 
-The average math score, average reading score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school spending range $630 - $644 dropped 
+The average math score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school spending range $630 - $644 dropped 
 as can be seen in the screenshots.
 
+The average reading score increased slightly. 
+
 This is as a result of the changes we made to the Thomas High School data.
+
+It is imortant to note that when we present this information to the nearest tenths, the changes cannot be seen or can be classified as insignificant.
+
 
 * The below image shows the result of the original analysis;
 
@@ -143,10 +148,14 @@ This is as a result of the changes we made to the Thomas High School data.
 
 ### Scores by school size
 
-The average math score, average reading score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school size medium (1000-2000) dropped 
+The average math score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school size medium (1000-2000) dropped 
 as can be seen in the screenshots.
 
+The average reading score increased slightly. 
+
 This is as a result of the changes we made to the Thomas High School data.
+
+It is imortant to note that when we present this information to the nearest tenths, the changes cannot be seen or can be classified as insignificant.
 
 * The below image shows the result of the original analysis;
 
@@ -158,8 +167,14 @@ This is as a result of the changes we made to the Thomas High School data.
 
 ### Scores by school type
 
-The average math score, average reading score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school type "Charter" dropped 
+The average math score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school type "Charter" dropped 
 as can be seen in the screenshots.
+
+The average reading score increased slightly. 
+
+This is as a result of the changes we made to the Thomas High School data.
+
+It is imortant to note that when we present this information to the nearest tenths, the changes cannot be seen or can be classified as insignificant.
 
 This is as a result of the changes we made to the Thomas High School data.
 
