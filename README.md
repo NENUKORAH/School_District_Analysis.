@@ -311,7 +311,7 @@ highlighted above.
 
 Thirdly, the modification impacted on the ranking of the schools and also impacted the score averages for math and reading.
  
-Finally, there were changes to results by school spending, school size and school type specifically in the buckets where Thomas Highschool falls under.
+Finally, there were changes to results by school spending, school size and school type specifically in the buckets where Thomas High school falls under.
 
 **Nnaemeka Enukorah**
 
