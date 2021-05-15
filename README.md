@@ -128,37 +128,37 @@ This significantly affected the overall 9th grade performance when viewed from t
 
 ### Scores by school spending
 
-The percentage of student passing math, the percentage of student passing reading, the overall passing percentage of school spending range $630 - $644 dropped 
+The average math score, average reading score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school spending range $630 - $644 dropped 
 as can be seen in the screenshots.
 
 This is as a result of the changes we made to the Thomas High School data.
 
 * The below image shows the result of the original analysis;
 
-![Score by school spending range original](https://user-images.githubusercontent.com/81701640/118378603-000bc480-b5a3-11eb-904c-86efe48aea25.png)
+![Score by school spending range original](https://user-images.githubusercontent.com/81701640/118380646-5f70d100-b5b1-11eb-94b7-aea41e423294.png)
 
 * The below image shows the result after the requested modification to the analysis;
 
-![Score by school spending range modified](https://user-images.githubusercontent.com/81701640/118378614-0a2dc300-b5a3-11eb-8228-144d4efc4c53.png)
+![Score by school spending range modified](https://user-images.githubusercontent.com/81701640/118380660-74e5fb00-b5b1-11eb-8de9-817ce31fd093.png)
 
 ### Scores by school size
 
-The percentage of student passing math, the percentage of student passing reading, the overall passing percentage of school size medium (1000-2000) dropped 
+The average math score, average reading score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school size medium (1000-2000) dropped 
 as can be seen in the screenshots.
 
 This is as a result of the changes we made to the Thomas High School data.
 
 * The below image shows the result of the original analysis;
 
-![Score by school size original](https://user-images.githubusercontent.com/81701640/118378802-0ea6ab80-b5a4-11eb-8ca0-92982c7e3b40.png)
+![Score by school size original](https://user-images.githubusercontent.com/81701640/118380732-11a89880-b5b2-11eb-8241-a5cce3e637ef.png)
 
 * The below image shows the result after the requested modification to the analysis;
 
-![Score by school size modified](https://user-images.githubusercontent.com/81701640/118378807-16fee680-b5a4-11eb-806a-173dbf93e631.png)
+![Score by school size modified](https://user-images.githubusercontent.com/81701640/118380743-25ec9580-b5b2-11eb-9f8f-f03d07fcd820.png)
 
 ### Scores by school type
 
-The percentage of student passing math, the percentage of student passing reading, the overall passing percentage of school type "Charter" dropped 
+The average math score, average reading score, percentage of student passing math, percentage of student passing reading, the overall passing percentage of school type "Charter" dropped 
 as can be seen in the screenshots.
 
 This is as a result of the changes we made to the Thomas High School data.
@@ -311,6 +311,9 @@ highlighted above.
 Thirdly, the modification impacted on the ranking of the schools and also impacted the score averages for math and reading.
  
 Finally, there were changes to results by school spending, school size and school type specifically in the buckets where Thomas High school falls under.
+
+Though there were changes accross the parameters highlighted above, the impact on the summary results is not highly impacted by the changes to Thomas High School
+when we look at averages and percentages to the nearest tenths .
 
 **Nnaemeka Enukorah**
 
