@@ -38,11 +38,11 @@ Here we see a change to the Average match score, the average reading score, perc
 
 * The below image shows the result of the original analysis;
 
-![District summary original](https://user-images.githubusercontent.com/81701640/118376141-2d04ab00-b594-11eb-9e77-dafe0474e853.png)
+![District summary original](https://user-images.githubusercontent.com/81701640/118380365-2fc0c980-b5af-11eb-94ea-bdb90b575059.png)
 
 * The below image shows the result after the requested modification to the analysis;
 
-![District summary modified](https://user-images.githubusercontent.com/81701640/118376146-3e4db780-b594-11eb-905c-0efabcd826e1.png)
+![District summary modified](https://user-images.githubusercontent.com/81701640/118380376-3f401280-b5af-11eb-81e7-6c26cb26c7d4.png)
 
 ### School Summary
 
