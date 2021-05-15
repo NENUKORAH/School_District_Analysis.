@@ -46,19 +46,9 @@ Here we see a change to the Average match score, the average reading score, perc
 
 ### School Summary
 
-The school summary shows that the data for Thomas high school chnaged in the following areas;
+The school summary shows that the data for Thomas high school changed.
 
-* Average math score declined by 0.07 or 0.08% from 83.42 to 83.35. 
-
-* Average reading score increased by 0.05 or 0.06% from 83.85 to 83.90.
-
-* Percentage of student who passed math declined by 26.4% from 93.3% to 66.9%
-
-* Percentage of student who passed reading declined by 27.7% from 97.3% to 27.7%
-
-* The overall passing percentage declined by 25.9% from 90.9% to 65.0%
-
-We can see from the above analysis that the changes we made to Thomas high school significantly impacted the results.
+The average math score, percentage of student passing math, percentage of student passing reading, the overall passing percentage were all impacted.
 
 * The below image shows the result of the original analysis;
 
@@ -67,6 +57,10 @@ We can see from the above analysis that the changes we made to Thomas high schoo
 * The below image shows the result after the requested modification to the analysis;
 
 ![School summary Modified](https://user-images.githubusercontent.com/81701640/118376745-df8a3d00-b597-11eb-98ec-a63ae323a4aa.png)
+
+* The below image shows the result when we compute using 10th to 12th grade of Thomas highschool for the analysis;
+
+![School summary Modified](https://user-images.githubusercontent.com/81701640/118381158-08b9c600-b5b6-11eb-8bb8-d79e8e3c7984.png)
 
 ### Thomas High School performance relative to other schools
 
