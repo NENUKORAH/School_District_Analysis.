@@ -11,7 +11,7 @@ I had to do an extensive data cleaning by finding missing values, removing and r
 The data analysed for Maria includes the count of students and schools, the total budget amount, average math and reading scores, perentage of students who passed math and reading, overall passing percentage,
 scores by school type, scores by school size, scores by grade , high and low performing schools.
 
-In addition, I also provided district and school summary fo the report.
+In addition, I also provided district and school summary for the report.
 
 However, the school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders
 appear to have been altered.
