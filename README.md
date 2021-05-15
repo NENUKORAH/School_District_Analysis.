@@ -22,8 +22,9 @@ I will then repeat the school district analysis to see how the outcome will affe
 
 ### Resources
 
-Data Source: schools_complete.csv, students_complete.csv, PyCitySchools_Challenge_starter_code.ipyn
-Software: Python 3.9, Visual Studio Code 1.56.0, Anaconda 4.9.2, Jupyter Notebook 6.1.4
+* Data Source: schools_complete.csv, students_complete.csv, PyCitySchools_Challenge_starter_code.ipyn
+
+* Software: Python 3.9, Visual Studio Code 1.56.0, Anaconda 4.9.2, Jupyter Notebook 6.1.4
 
 ## School District Analysis Results
 
