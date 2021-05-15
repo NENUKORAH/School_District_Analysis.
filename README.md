@@ -78,6 +78,10 @@ Replacing the ninth grade scores of Thomas High School with NaN resulted in a de
 
 From the above screen shot, we can clearly see the decline in the ranking of Thomas High school.
 
+The image below shows the ranking when we use only information for the 10th to 12th graders for Thomas High School ;
+
+
+
 ### Top 5 performing schools based on Overall Passing Rate;
 
 We performed an analysis to see the performance of the schools using only score information of 10th to 12th graders.
