@@ -34,7 +34,7 @@ The below analysis and screenshots will provide insights to the following key ar
 
 ### District Summary
 
-The only change to the district summary is a 0.1% drop in the average math score as shown below;
+Here we see a change to the Average match score, the average reading score, percentage of students passing math and reading, and a change to the overall passing percentage.
 
 * The below image shows the result of the original analysis;
 
@@ -43,8 +43,6 @@ The only change to the district summary is a 0.1% drop in the average math score
 * The below image shows the result after the requested modification to the analysis;
 
 ![District summary modified](https://user-images.githubusercontent.com/81701640/118376146-3e4db780-b594-11eb-905c-0efabcd826e1.png)
-
-We can see from the screenshots above that the only change to the district summary is the average math score.
 
 ### School Summary
 
