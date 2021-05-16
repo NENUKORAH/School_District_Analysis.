@@ -82,6 +82,8 @@ The image below shows the ranking when we use only information for the 10th to 1
 
 ![Overall Performance Modified 1012](https://user-images.githubusercontent.com/81701640/118381312-b8436800-b5b7-11eb-862d-7c24e5c79c9f.png)
 
+Thomas High shcool retains its 2nd position ranking using this approach.
+
 ### Top 5 performing schools based on Overall Passing Rate;
 
 We performed an analysis to see the performance of the schools using only score information of 10th to 12th graders.
