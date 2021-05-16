@@ -80,7 +80,7 @@ From the above screen shot, we can clearly see the decline in the ranking of Tho
 
 The image below shows the ranking when we use only information for the 10th to 12th graders for Thomas High School ;
 
-
+![Overall Performance Modified 1012](https://user-images.githubusercontent.com/81701640/118381312-b8436800-b5b7-11eb-862d-7c24e5c79c9f.png)
 
 ### Top 5 performing schools based on Overall Passing Rate;
 
